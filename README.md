@@ -11,7 +11,7 @@
 </div>
 
 <br><br>
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 About me 
 
 -🚀 My career as a Fullstack Developer has taken an exciting turn in the last two years.
 <br>
@@ -26,9 +26,24 @@
 -📫 If you’re interested in learning more about me and my projects, feel free to email me at diego.fnicolini@gmail.com.
 
 <br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Language and Tools
+## Sobre mi 
 
-#### Main Stack:
+-🚀 Mi carrera como Desarrollador Fullstack ha dado un giro emocionante en los últimos dos años.
+<br>
+-🌟 Decidí sumergirme en el mundo digital, despertando mi interés por el desarrollo web y la programación.
+<br>
+-💻 Actualmente, estoy emocionado por el progreso que he logrado y comprometido a seguir aprendiendo y creciendo en este fascinante campo.
+<br>
+-🔭 Cada día encuentro nuevas formas de mejorar mis habilidades y ampliar mis conocimientos en desarrollo web, lo cual me mantiene motivado y en constante evolución.
+<br>
+-🎨 Mi objetivo es aportar mi creatividad y pasión a proyectos que combinen diseño y tecnología, ofreciendo soluciones innovadoras y efectivas.
+<br>
+-📫 Si estás interesado en saber más sobre mí y mis proyectos, no dudes en escribirme a diego.fnicolini@gmail.com.
+
+<br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Language and Tools/ Lenguajes y Herramientas
+
+#### Main Stack/Tecnologías Principales:
 <div align="start">
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>
@@ -41,7 +56,7 @@
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>
 </div>
 
-#### Studying in this moment:
+#### Studying in this moment/Estudiando Actualmente:
 <div align="start">
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>
@@ -52,7 +67,7 @@
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=wordpress"/>
 </div>
 
-#### Tools:
+#### Tools/Herramientas:
 <div align="start">
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
@@ -61,7 +76,7 @@
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postman"/>
 </div>
 
-#### Design:
+#### Design/Diseño:
 <div align="start">
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ai"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ps"/>
