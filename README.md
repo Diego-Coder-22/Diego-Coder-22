@@ -60,6 +60,7 @@
 <div align="start">
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>
+<img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=astro"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nestjs"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>
   <img height="42px" width="42px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>
